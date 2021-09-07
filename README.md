@@ -1,3 +1,5 @@
+# Deep Learning Model For Brain Tumor Segmentaion
+
 Implementation of 3 deep learning models for brain tumor segmentaion.\
 <br />
 These models are implemented based on presented models in "Brain tumor segmentation with Deep Neural Networks" paper.
