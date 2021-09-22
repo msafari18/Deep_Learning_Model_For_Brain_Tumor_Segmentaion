@@ -7,7 +7,7 @@ These models are implemented based on presented models in "Brain tumor segmentat
 Related link:
 https://www.sciencedirect.com/science/article/abs/pii/S1361841516300330
 <br />
-Brain Tumor data is from BRATS 2013 Challeng.
+Brain Tumor data is from BRATS 2013 Challenge.
 <br />
 Related link:
 https://www.smir.ch/BRATS/Start2013
